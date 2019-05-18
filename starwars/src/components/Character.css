@@ -1,0 +1,19 @@
+
+
+.characterStyle {
+    margin: 10px 100px;
+    font-size: 1.5em;
+    width: 200px;
+    height: 200px;
+    color: white;
+    background: url("../starwars.jpeg");
+    background-size: 200px 200px;
+}
+
+.characterStyle h3 {
+    color: red;
+}
+
+.characterStyle p{
+    color: yellow;
+}
